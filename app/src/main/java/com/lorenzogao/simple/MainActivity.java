@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         tv1.setText("butterKnifeDemo1");
 //        tv2.setText("butterKnifeDemo2");
 
+
     }
 
 
