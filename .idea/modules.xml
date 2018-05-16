@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ButterKnife-annotations/ButterKnife-annotations.iml" filepath="$PROJECT_DIR$/ButterKnife-annotations/ButterKnife-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButterKnife-compiler/ButterKnife-compiler.iml" filepath="$PROJECT_DIR$/ButterKnife-compiler/ButterKnife-compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/ButterKnifeDemo.iml" filepath="$PROJECT_DIR$/ButterKnifeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknife/butterknife.iml" filepath="$PROJECT_DIR$/butterknife/butterknife.iml" />
     </modules>
   </component>
 </project>
